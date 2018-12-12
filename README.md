@@ -36,6 +36,8 @@ You will find an index of our research work here.
 
 [Gnosis Safe Formal Verification](https://github.com/gnosis/verified-smart-contracts/tree/master/gnosis) 
 
+[Add wallet_ methods to improve dapp to wallet interaction](https://ethereum-magicians.org/t/add-wallet-methods-to-improve-dapp-to-wallet-interaction/1848)
+
 
 
 
