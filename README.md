@@ -4,7 +4,7 @@ You will find an index of our research work here.
 
 ### CREATE—Prediction Markets ###
 
-[Whitepaper, ed. 22 Decmber 2017](https://gnosis.pm/assets/pdf/gnosis-whitepaper.pdf) 
+[Whitepaper, ed. 22 Decmber 2017](https://gnosis.io/pdf/gnosis-whitepaper.pdf) 
 
 [Any-order condition resolution in conditional prediction markets](https://ethresear.ch/t/any-order-condition-resolution-in-conditional-prediction-markets/4263) 
 
